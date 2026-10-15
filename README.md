@@ -17,10 +17,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gokulm230/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/gokulm230" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="github logo"/>
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="40" alt="GitHub"/>
   </a>
 </div>
 
@@ -30,65 +30,66 @@
 
 <div align="left">
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
   <br clear="both"><br>
 
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="React"/>
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="50" alt="nextjs logo" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="50" alt="Next.js"/>
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="Tailwind CSS"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
   <br clear="both"><br>
 
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="50" alt="github actions logo" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="50" alt="GitHub Actions"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm"/>
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="50" alt="fastapi logo" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="50" alt="FastAPI"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js"/>
   <br clear="both"><br>
 
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="50" alt="digitalocean logo" />
+  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="50" alt="DigitalOcean"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
   <br clear="both"><br>
 
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="50" alt="google cloud logo" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="50" alt="Google Cloud"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/>
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50" alt="hugging face logo" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50" alt="Hugging Face"/>
 </div>
 
-
 <br clear="both">
+
+---
 
 ## 🚀 Featured Projects
 
@@ -109,31 +110,36 @@
 
 <br clear="both">
 
-<img width="100%" src="https://raw.githubusercontent.com/gokulm230/gokulm230/output/snake.svg" alt="Snake animation" />
+<!-- Snake animation: requires a GitHub Actions workflow to generate output/snake.svg -->
+<img width="100%" src="https://raw.githubusercontent.com/gokulm230/gokulm230/output/snake.svg" alt="GitHub contribution snake animation"/>
 
 <br clear="both">
 
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulm230&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulm230&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="200" alt="GitHub stats"/>
   <br clear="both">
-  <img src="https://streak-stats.demolab.com?user=gokulm230&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="180" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulm230&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true&order=2" height="180" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=gokulm230&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=10" height="180" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulm230&layout=compact&langs_count=12&theme=midnight-purple&hide_border=true" height="180" alt="Top languages"/>
+</div>
 
-### 🔝 Top Contributed Repo
+<br>
 
+## 📈 GitHub Activity Graph
 
-<!-- GitHub Activity Graph -->
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gokulm230&theme=nightowl&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gokulm230&theme=nightowl&area=true&hide_border=true"
     width="100%"
     alt="GitHub Activity Graph"
   />
 </div>
 
-<br/>
+<br>
 
-<!-- GitHub Profile Trophies -->
+## 🏆 GitHub Profile Trophies
+
 <div align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=gokulm230&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"
@@ -142,7 +148,25 @@
   />
 </div>
 
+<br>
 
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=gokulm230&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true"
+    width="100%"
+    alt="Top contributed repositories"
+  />
+</div>
+
+<br>
+
+## 💭 Developer Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" alt="Developer quote"/>
+</div>
 
 <br clear="both">
 
@@ -150,17 +174,15 @@
 class Developer:
     def __init__(self, name):
         self.name = name
-        self.skills = ["Full Stack Development", "AI", "Problem Solving"]
+        self.skills = [
+            "Full Stack Development",
+            "AI",
+            "Problem Solving"
+        ]
         self.is_learning = True
 
     def build(self, idea):
         return f"Turning '{idea}' into reality! 🚀"
-
-    def improve(self):
-        while self.is_learning:
-            self.learn()
-            self.build_project()
-            self.solve_problems()
 
     def learn(self):
         print("Learning something new every day!")
