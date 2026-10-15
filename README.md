@@ -120,15 +120,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulm230&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true&order=2" height="180" alt="languages graph" />
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gokulm230&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulm230&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="activity graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=gokulm230&theme=discord&column=-1&row=2&margin-w=12&margin-h=0&no-bg=true&no-frame=true&order=4" width="100%" height="150" alt="trophy graph" />
-</div>
 
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" alt="random developer quote"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gokulm230&theme=nightowl&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </div>
+
+<br/>
+
+<!-- GitHub Profile Trophies -->
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=gokulm230&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"
+    width="100%"
+    alt="GitHub Profile Trophies"
+  />
+</div>
+
+
 
 <br clear="both">
 
