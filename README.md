@@ -85,9 +85,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50" alt="hugging face logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo" />
 </div>
+
 
 <br clear="both">
 
