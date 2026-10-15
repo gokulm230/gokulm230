@@ -1,122 +1,170 @@
 
-# 💫 About Me
-
+# 💫 About Me:
 ## Hi there, I'm Gokul M 👋
 
-### Full Stack Developer | AI & Generative AI Enthusiast 🚀
+### I'm a passionate Computer Science student at Karpagam Academy of Higher Education, Tamil Nadu, India. I specialize in full-stack web development using the MERN stack, React.js, Node.js, Express.js, and PostgreSQL. I enjoy building scalable web applications, designing REST APIs, and deploying applications using Docker and cloud platforms. I'm also exploring Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI agents. I'm eager to collaborate on innovative projects and contribute to the tech community!
 
-I'm a Computer Science student at **Karpagam Academy of Higher Education, Tamil Nadu, India**, passionate about building scalable web applications and exploring AI-powered solutions.
+- 🔭 I'm currently building full-stack applications and exploring AI engineering
+- 🌱 I'm currently learning LLMs, RAG, AI agents, and advanced backend development
+- 💬 Ask me about MERN Stack, React.js, Node.js, PostgreSQL, Docker, and Generative AI
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gokulm230/)
+- 🚀 All of my projects are available at [GitHub](https://github.com/gokulm230)
+- ⚡ Fun fact: I love turning ideas into real-world applications, and debugging is part of the adventure!
 
-I specialize in full-stack development using the **MERN stack, React.js, Node.js, Express.js, and PostgreSQL**. I also have experience with Docker, cloud deployment, and developing applications that solve real-world problems.
+## Let's build something amazing together!
 
-I'm currently expanding my knowledge of **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and Generative AI**.
+<br clear="both">
 
-- 🔭 I'm currently building full-stack applications and exploring AI engineering.
-- 🌱 I'm currently learning LLMs, RAG, AI Agents, and advanced backend development.
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/gokulm230).
-- 💬 Ask me about MERN Stack, REST APIs, PostgreSQL, Docker, and Generative AI.
-- 💼 Full Stack Developer Intern at AGX Solutions.
-- 🏆 Hackathon participant passionate about solving real-world problems.
-- ⚡ Fun fact: I enjoy turning ideas into working applications — and debugging is part of the adventure!
-
-## 🤝 Let's Build Something Amazing Together!
-
-<p align="left">
-  <a href="https://github.com/gokulm230">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<div align="left">
+  <a href="https://www.linkedin.com/in/gokulm230/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
   </a>
-  <a href="https://www.linkedin.com/in/gokulm230/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/gokulm230" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="github logo"/>
   </a>
-</p>
+</div>
 
----
+<br>
 
 ## 💻 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="left">
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
+  <br clear="both"><br>
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="50" alt="nextjs logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+  <br clear="both"><br>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="50" alt="github actions logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="50" alt="fastapi logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo" />
+  <br clear="both"><br>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="50" alt="digitalocean logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
+  <br clear="both"><br>
 
-### AI & Generative AI
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-00897B?style=for-the-badge)
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="50" alt="google cloud logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50" alt="hugging face logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo" />
+</div>
 
-### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
+<br clear="both">
 
 ## 🚀 Featured Projects
 
 ### 🎓 Alumni Connect Platform
-- Developed a full-stack platform connecting alumni and students.
+- Built a full-stack platform connecting alumni and students.
 - Implemented authentication, alumni profiles, profile management, and pagination.
-- Built using React.js, Node.js, Express.js, and PostgreSQL.
+- Developed using React.js, Node.js, Express.js, and PostgreSQL.
 - Containerized the application with Docker and hosted it on DigitalOcean.
-- 🌐 [Visit the live application](https://www.karpagamalumni.in/)
+- 🌐 [Live Application](https://www.karpagamalumni.in/)
+
+### 🚗 Driver Hub
+- Built a MERN stack application connecting users and drivers.
+- Deployed the application to Google Kubernetes Engine (GKE).
 
 ### 🤖 Auto-Evaluation System
 - Exploring AI-powered evaluation and automation workflows.
-- Focused on using AI to streamline assessment and evaluation processes.
+- Focused on applying Generative AI to assessment and evaluation tasks.
 
-### 🚗 Driver Hub
-- Built a MERN stack application connecting users with drivers.
-- Deployed the application using Docker and Google Kubernetes Engine (GKE).
+<br clear="both">
+
+<img width="100%" src="https://raw.githubusercontent.com/gokulm230/gokulm230/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulm230&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
+  <br clear="both">
+  <img src="https://streak-stats.demolab.com?user=gokulm230&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulm230&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true&order=2" height="180" alt="languages graph" />
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gokulm230&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true)
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulm230&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="activity graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=gokulm230&theme=discord&column=-1&row=2&margin-w=12&margin-h=0&no-bg=true&no-frame=true&order=4" width="100%" height="150" alt="trophy graph" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" alt="random developer quote"/>
+</div>
+
+<br clear="both">
+
+```python
+class Developer:
+    def __init__(self, name):
+        self.name = name
+        self.skills = ["Full Stack Development", "AI", "Problem Solving"]
+        self.is_learning = True
+
+    def build(self, idea):
+        return f"Turning '{idea}' into reality! 🚀"
+
+    def improve(self):
+        while self.is_learning:
+            self.learn()
+            self.build_project()
+            self.solve_problems()
+
+    def learn(self):
+        print("Learning something new every day!")
+
+    def build_project(self):
+        print("Building, testing, and deploying applications...")
+
+
+me = Developer("Gokul M")
+print(me.build("Something amazing"))
+```
+
+<br clear="both">
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulm230&show_icons=true&theme=midnight-purple&hide_border=true" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulm230&layout=compact&theme=midnight-purple&hide_border=true" height="180" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gokulm230&theme=midnight-purple&hide_border=true" height="180" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulm230&theme=nightowl&hide_border=true" width="100%" alt="GitHub activity graph"/>
-</p>
-
----
-
-## 💡 Developer Mindset
-
-> Build. Break. Debug. Learn. Repeat. 🚀
-
-I'm always eager to collaborate on interesting projects, learn new technologies, and build software that makes a difference.
-
-**Thanks for visiting my profile! Let's connect and build something awesome.** 🤝
+<div align="center">
+  <h3>💜 Thanks for visiting my profile!</h3>
+  <p>Keep learning. Keep building. Keep shipping. 🚀</p>
+</div>
