@@ -1,32 +1,122 @@
-<h1 align="center">Hi 👋, I'm Gokul M</h1>
-<h3 align="center">Full Stack Developer | AI & Generative AI Enthusiast | Building Scalable Applications & Intelligent Solutions 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulm230&label=Profile%20views&color=0e75b6&style=flat" alt="gokulm230" /> </p>
+# 💫 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulm230" alt="gokulm230" /></a> </p>
+## Hi there, I'm Gokul M 👋
 
-- 🌱 I’m currently learning **I’m currently learning LLMs, RAG, AI Agents, and advanced backend development with Node.js and FastAPI.**
+### Full Stack Developer | AI & Generative AI Enthusiast 🚀
 
-- 💬 Ask me about **MERN Stack, Full Stack Development, REST APIs, PostgreSQL, Docker, and Generative AI (LLMs & RAG).**
+I'm a Computer Science student at **Karpagam Academy of Higher Education, Tamil Nadu, India**, passionate about building scalable web applications and exploring AI-powered solutions.
 
-- 📫 How to reach me **gokulmanikandan230@gmail.com**
+I specialize in full-stack development using the **MERN stack, React.js, Node.js, Express.js, and PostgreSQL**. I also have experience with Docker, cloud deployment, and developing applications that solve real-world problems.
 
-- 📄 Know about my experiences [Full Stack Development, React.js, REST API Integration, Cloud Deployment, and Building Production-Ready Web Applications through my projects and internship at AGX Solutions.](Full Stack Development, React.js, REST API Integration, Cloud Deployment, and Building Production-Ready Web Applications through my projects and internship at AGX Solutions.)
+I'm currently expanding my knowledge of **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and Generative AI**.
 
-- ⚡ Fun fact **I love turning random ideas into real-world applications — and somehow, fixing bugs becomes a bigger project than building the feature itself!**
+- 🔭 I'm currently building full-stack applications and exploring AI engineering.
+- 🌱 I'm currently learning LLMs, RAG, AI Agents, and advanced backend development.
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/gokulm230).
+- 💬 Ask me about MERN Stack, REST APIs, PostgreSQL, Docker, and Generative AI.
+- 💼 Full Stack Developer Intern at AGX Solutions.
+- 🏆 Hackathon participant passionate about solving real-world problems.
+- ⚡ Fun fact: I enjoy turning ideas into working applications — and debugging is part of the adventure!
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Let's Build Something Amazing Together!
+
 <p align="left">
-<a href="https://linkedin.com/in/gokulm230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulm230" height="30" width="40" /></a>
-<a href="https://kaggle.com/gokulmanikandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gokulmanikandan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gokulmanikandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokulmanikandan" height="30" width="40" /></a>
+  <a href="https://github.com/gokulm230">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gokulm230/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulm230&show_icons=true&locale=en&layout=compact" alt="gokulm230" /></p>
+## 💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokulm230&show_icons=true&locale=en" alt="gokulm230" /></p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulm230&" alt="gokulm230" /></p>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### AI & Generative AI
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00897B?style=for-the-badge)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Alumni Connect Platform
+- Developed a full-stack platform connecting alumni and students.
+- Implemented authentication, alumni profiles, profile management, and pagination.
+- Built using React.js, Node.js, Express.js, and PostgreSQL.
+- Containerized the application with Docker and hosted it on DigitalOcean.
+- 🌐 [Visit the live application](https://www.karpagamalumni.in/)
+
+### 🤖 Auto-Evaluation System
+- Exploring AI-powered evaluation and automation workflows.
+- Focused on using AI to streamline assessment and evaluation processes.
+
+### 🚗 Driver Hub
+- Built a MERN stack application connecting users with drivers.
+- Deployed the application using Docker and Google Kubernetes Engine (GKE).
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulm230&show_icons=true&theme=midnight-purple&hide_border=true" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulm230&layout=compact&theme=midnight-purple&hide_border=true" height="180" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gokulm230&theme=midnight-purple&hide_border=true" height="180" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulm230&theme=nightowl&hide_border=true" width="100%" alt="GitHub activity graph"/>
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+> Build. Break. Debug. Learn. Repeat. 🚀
+
+I'm always eager to collaborate on interesting projects, learn new technologies, and build software that makes a difference.
+
+**Thanks for visiting my profile! Let's connect and build something awesome.** 🤝
