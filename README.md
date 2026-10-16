@@ -83,7 +83,6 @@ hobbies:
 
 ![GitHub Metrics](https://raw.githubusercontent.com/gokulm230/gokulm230/main/github-metrics.svg)
 
-![GitHub Habits](https://raw.githubusercontent.com/gokulm230/gokulm230/main/metrics.plugin.habits.charts.svg)
 
 ![GitHub LeetCode Metrics](https://raw.githubusercontent.com/gokulm230/gokulm230/main/metrics.plugin.leetcode.svg)
 
