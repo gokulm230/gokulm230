@@ -69,9 +69,16 @@ hobbies:
 <hr>
 
 
+<hr>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gokulm230&theme=onedark&no-frame=true&no-bg=true&column=6" alt="GitHub Profile Trophies" />
+  <img
+    src="./profile/trophy.svg"
+    alt="GitHub Profile Trophies"
+  />
 </p>
+
+<hr>
 
 
 ![GitHub Metrics](https://raw.githubusercontent.com/gokulm230/gokulm230/main/github-metrics.svg)
