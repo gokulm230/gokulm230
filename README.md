@@ -1,121 +1,177 @@
 
-# 💫 About Me
-
-## Hi there, I'm Gokul M 👋
-
-### Full Stack Developer | AI & Generative AI Enthusiast 🚀
-
-I'm a Computer Science student at Karpagam Academy of Higher Education, Tamil Nadu, India. I specialize in full-stack development using the MERN stack, React.js, Node.js, Express.js, and PostgreSQL. I enjoy building scalable web applications, designing REST APIs, and deploying applications using Docker and cloud platforms.
-
-I'm also exploring Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI agents.
-
-- 🔭 Building full-stack applications and exploring AI engineering
-- 🌱 Learning LLMs, RAG, AI agents, and advanced backend development
-- 💬 Ask me about MERN Stack, REST APIs, PostgreSQL, Docker, and Generative AI
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/gokulm230/)
-- 🚀 Explore my projects on [GitHub](https://github.com/gokulm230)
-- ⚡ Fun fact: I love turning ideas into real-world applications!
-
-## 🤝 Let's Build Something Amazing Together!
-
-<div align="left">
+<p align="center">
+  <img width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" alt="Lo-fi city animation" />
+  <br/>
   <a href="https://www.linkedin.com/in/gokulm230/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
+    <img alt="Gokul M LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/gokulm230">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
+    <img alt="Gokul M GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" height="50" alt="Languages"/>
+  &nbsp;&nbsp;
+  <a href="https://www.karpagamalumni.in/">
+    <img alt="Alumni Connect Platform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+  </a>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi" height="50" alt="Web development"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,kubernetes,gcp,digitalocean,linux" height="50" alt="Databases, cloud and DevOps"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,npm" height="50" alt="Developer tools"/>
-  <br/><br/>
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50" alt="Hugging Face"/>
-</div>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random developer quote" />
+</p>
 
----
-
-## 🚀 Featured Projects
-
-### 🎓 Alumni Connect Platform
-- Developed a full-stack platform connecting alumni and students.
-- Implemented authentication, alumni profiles, profile management, and pagination.
-- Built using React.js, Node.js, Express.js, and PostgreSQL.
-- Containerized the application using Docker and hosted it on DigitalOcean.
-- 🌐 [Visit the live application](https://www.karpagamalumni.in/)
-
-### 🚗 Driver Hub
-- Built a MERN stack application connecting users and drivers.
-- Deployed the application using Docker and Google Kubernetes Engine (GKE).
-
-### 🤖 Auto-Evaluation System
-- Exploring AI-powered evaluation and automation workflows.
-- Applying Generative AI to assessment and evaluation tasks.
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokulm230/gokulm230/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokulm230/gokulm230/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/gokulm230/gokulm230/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulm230&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" height="180" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulm230&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true" height="180" alt="Top languages"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=gokulm230&theme=midnight-purple&hide_border=true" height="180" alt="GitHub contribution streak"/>
-</div>
-
----
-
-## 💡 Developer Mindset
-
-> Build. Break. Debug. Learn. Repeat. 🚀
-
-```python
-class Developer:
-    def __init__(self, name):
-        self.name = name
-        self.skills = [
-            "Full Stack Development",
-            "Generative AI",
-            "Problem Solving"
-        ]
-
-    def build(self, idea):
-        return f"Turning '{idea}' into reality! 🚀"
-
-    def learn(self):
-        print("Learning something new every day!")
-
-
-me = Developer("Gokul M")
-print(me.build("Something amazing"))
-me.learn()
+```yaml
+name: Gokul M
+located_in: Tamil Nadu, India
+education: "B.Sc. Computer Science, Karpagam Academy of Higher Education (2023-2027)"
+job: Full Stack Developer
+technical_background:
+  - MERN Stack Development
+  - React.js and Next.js
+  - Node.js and Express.js
+  - REST APIs and Backend Development
+  - PostgreSQL and MongoDB
+  - Generative AI and Large Language Models
+  - Retrieval-Augmented Generation (RAG)
+  - AI Agents and Automation
+  - Docker and Kubernetes
+  - Google Cloud Platform and DigitalOcean
+currently_learning:
+  - LLM Engineering
+  - RAG and AI Agents
+  - Machine Learning and Deep Learning
+  - Cloud Infrastructure and DevOps
+ask_me_about:
+  - JavaScript
+  - Python
+  - React.js
+  - Node.js
+  - Express.js
+  - PostgreSQL
+  - MERN Stack
+  - REST APIs
+  - Docker and Kubernetes
+  - Generative AI
+  - LLMs and RAG
+projects:
+  - Alumni Connect Platform
+  - Driver Hub
+  - Auto Timetable Generator
+  - Auto-Evaluation System
+  - PhotoDrive
+hobbies:
+  - Building Web Applications
+  - Exploring AI and New Technologies
+  - Learning by Building Projects
 ```
 
----
+[![Generate Snake](https://github.com/gokulm230/gokulm230/actions/workflows/snake.yml/badge.svg)](https://github.com/gokulm230/gokulm230/actions/workflows/snake.yml)
+
+![GitHub Snake](https://raw.githubusercontent.com/gokulm230/gokulm230/output/github-snake-dark.svg)
+
+<hr>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gokulm230&theme=onedark&no-frame=true&no-bg=true&column=6" alt="GitHub Profile Trophies" />
+</p>
+
+
+![GitHub Metrics](https://raw.githubusercontent.com/gokulm230/gokulm230/main/github-metrics.svg)
+
+![GitHub Habits](https://raw.githubusercontent.com/gokulm230/gokulm230/main/metrics.plugin.habits.charts.svg)
+
+![GitHub LeetCode Metrics](https://raw.githubusercontent.com/gokulm230/gokulm230/main/metrics.plugin.leetcode.svg)
+
+<hr>
+
+<hr>
+
+<!--START_SECTION:WAKA-->
+
+```txt
+WakaTime coding statistics will appear here after
+you configure WakaTime and its README update workflow.
+```
+
+<!--END_SECTION:WAKA-->
+
+<!--START_SECTION:time-->
+
+![Code Time](https://img.shields.io/badge/Code%20Time-Configure%20WakaTime-blue?style=flat)
+
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-Tracked%20by%20GitHub-blue?style=flat)
+
+**🐱 My GitHub Data**
+
+> 📦 Public repositories and repository storage are available on my GitHub profile.
+>
+> 🏆 Contributions: [View my contribution activity](https://github.com/gokulm230)
+>
+> 📜 Public repositories: [Explore my repositories](https://github.com/gokulm230?tab=repositories)
+>
+> 💻 Focus: Full Stack Development, Generative AI, and Backend Engineering
+
+**I'm an Early 🐤**
+
+```text
+Commit activity is based on your actual GitHub contribution history.
+```
+
+📅 **My Most Productive Day**
+
+```text
+GitHub contribution and productivity data will be displayed
+after configuring the relevant metrics workflow.
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑 Time Zone: Asia/Kolkata
+
+💬 Programming Languages:
+Configure WakaTime to display tracked language statistics.
+
+🔥 Editors:
+Configure WakaTime to display editor activity.
+
+🐱‍💻 Projects:
+Configure WakaTime to display project activity.
+```
+
+🤖 **AI Coding This Week**
+
+```text
+AI coding activity will appear here when a compatible
+tracking integration is configured.
+```
+
+<!--END_SECTION:time-->
+
+<hr>
+
+**🚀 Featured Project: Alumni Connect Platform**
+
+- Full-stack alumni networking platform built with React.js, Node.js, Express.js, and PostgreSQL.
+- Includes authentication, profile management, alumni discovery, and pagination.
+- Containerized with Docker and hosted on DigitalOcean.
+
+🌐 **Live:** https://www.karpagamalumni.in/
+
+**💼 Internship Experience**
+
+Full Stack Developer Intern — AGX Solutions  
+February 2025 – May 2025
+
+- Developed responsive React.js interfaces.
+- Integrated REST APIs and dynamic data rendering.
+- Built reusable UI components and collaborated on application improvements.
+- Worked with Google Cloud Platform hosting.
+
+**🏆 Achievements**
+
+- First place — Infynd AIM 25.
+- First place — void v1.
+- Participated in Kochi Hackathon 2025 and HackSRM Hackathon.
 
 <div align="center">
-  <h3>💜 Thanks for visiting my profile!</h3>
-  <p>Keep learning. Keep building. Keep shipping. 🚀</p>
+  <img height="100px" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer banner" />
 </div>
