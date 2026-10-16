@@ -22,7 +22,7 @@ jobs:
         with:
           options: 'username=gokulm230&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true'
           path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Commit trophy SVG
         run: |
