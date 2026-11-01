@@ -97,9 +97,6 @@ hobbies:
 * **React.js Frontend Developer Intern — AGX Solutions** *(Feb 2025 – May 2025)*
   * Built responsive web applications and integrated REST APIs for an agricultural B2C platform.
   * Implemented secure data-handling practices, input validation, and component state optimization.
-* **MERN Stack Developer Intern — Xarlex** *(2024)*
-  * Engineered scalable full-stack web applications utilizing MongoDB, Express.js, React.js, Node.js, and Redux state management.
-
 ---
 
 ### 🏆 Achievements & Competitions
