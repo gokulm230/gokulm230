@@ -27,15 +27,15 @@
 name: Gokul M
 located_in: Tamil Nadu, India
 education: "B.E. Computer Science and Engineering, Karpagam Academy of Higher Education (2023-2027)"
-job: Full Stack Developer & Cybersecurity Specialist
+job: Cybersecurity Specialist & Full Stack Developer 
 core_competencies:
   - Penetration Testing & Vulnerability Assessment
   - Web Application Security & OWASP Top 10
   - Secure API & Database Architecture
   - Network Security Auditing
 technical_skills:
-  - languages: [JavaScript, Python, C++, SQL, Bash]
-  - web_stack: [React.js, Next.js, Node.js, Express.js, Redux, REST APIs]
+  - languages: [JavaScript, Python, SQL, Bash]
+  - web_stack: [React.js, Next.js, Node.js, Express.js, REST APIs]
   - databases: [PostgreSQL, MongoDB]
   - security_tools: [Burp Suite Professional, Wireshark, Nmap, ExifTool, Metasploit, Kali Linux]
   - cloud_devops: [Docker, Kubernetes, GCP, DigitalOcean, Linux System Admin]
