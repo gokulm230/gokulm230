@@ -1,183 +1,116 @@
 
-<p align="center">
-  <img width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" alt="Lo-fi city animation" />
-  <br/>
-  <a href="https://www.linkedin.com/in/gokulm230/">
-    <img alt="Gokul M LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/gokulm230">
-    <img alt="Gokul M GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.karpagamalumni.in/">
-    <img alt="Alumni Connect Platform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-  </a>
-  <br/><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random developer quote" />
-</p>
+<div align="center">
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Gokul%20M&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+
+  <p>
+    <a href="https://www.linkedin.com/in/gokulm230/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/gokulm230">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.karpagamalumni.in/">
+      <img src="https://img.shields.io/badge/Alumni_Platform-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Alumni Connect" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🛡️ Personal Profile & Technical Background
 
 ```yaml
 name: Gokul M
 located_in: Tamil Nadu, India
-education: "B.Sc. Computer Science, Karpagam Academy of Higher Education (2023-2027)"
-job: Full Stack Developer
-technical_background:
-  - MERN Stack Development
-  - React.js and Next.js
-  - Node.js and Express.js
-  - REST APIs and Backend Development
-  - PostgreSQL and MongoDB
-  - Generative AI and Large Language Models
-  - Retrieval-Augmented Generation (RAG)
-  - AI Agents and Automation
-  - Docker and Kubernetes
-  - Google Cloud Platform and DigitalOcean
+education: "B.E. Computer Science and Engineering, Karpagam Academy of Higher Education (2023-2027)"
+job: Full Stack Developer & Cybersecurity Specialist
+core_competencies:
+  - Penetration Testing & Vulnerability Assessment
+  - Web Application Security & OWASP Top 10
+  - Secure API & Database Architecture
+  - Network Security Auditing
+technical_skills:
+  - languages: [JavaScript, Python, C++, SQL, Bash]
+  - web_stack: [React.js, Next.js, Node.js, Express.js, Redux, REST APIs]
+  - databases: [PostgreSQL, MongoDB]
+  - security_tools: [Burp Suite Professional, Wireshark, Nmap, ExifTool, Metasploit, Kali Linux]
+  - cloud_devops: [Docker, Kubernetes, GCP, DigitalOcean, Linux System Admin]
 currently_learning:
-  - LLM Engineering
-  - RAG and AI Agents
-  - Machine Learning and Deep Learning
-  - Cloud Infrastructure and DevOps
+  - Advanced Network Penetration Testing
+  - Cloud Security Architecture
+  - Exploit Development & CTF Methodologies
 ask_me_about:
-  - JavaScript
-  - Python
-  - React.js
-  - Node.js
-  - Express.js
-  - PostgreSQL
-  - MERN Stack
-  - REST APIs
-  - Docker and Kubernetes
-  - Generative AI
-  - LLMs and RAG
-projects:
-  - Alumni Connect Platform
-  - Driver Hub
-  - Auto Timetable Generator
-  - Auto-Evaluation System
-  - PhotoDrive
+  - Cybersecurity & Web Security Vulnerabilities
+  - Penetration Testing Workflows
+  - Secure Full Stack Development (MERN / Node.js / PostgreSQL)
+  - Docker & Containerization
 hobbies:
-  - Building Web Applications
-  - Exploring AI and New Technologies
-  - Learning by Building Projects
+  - Solving CTF Challenges & Security Labs
+  - Building Secure Web Applications
+  - Exploring Offensive Security Tools & Shell Scripts
 ```
 
-[![Generate Snake](https://github.com/gokulm230/gokulm230/actions/workflows/snake.yml/badge.svg)](https://github.com/gokulm230/gokulm230/actions/workflows/snake.yml)
+---
 
-![GitHub Snake](https://raw.githubusercontent.com/gokulm230/gokulm230/output/github-snake-dark.svg)
+### 🛡️ Security Highlights & CTF Solves
 
-<hr>
+* **PicoCTF StegoRSA Challenge**: Audited image file metadata using `exiftool` to uncover a hidden RSA key, converted it to `.pem` format, and engineered a custom Python decryption script using the `cryptography` library under a PKCS1v15 padding scheme.
+* **OWASP Juice Shop Penetration Test Audit**: Executed a comprehensive vulnerability audit using Burp Suite Pro, enumerated backend database schemas via out-of-range `ORDER BY` error reflections, and constructed automated `UNION SELECT` payloads to extract authentication tables.
+* **PicoCTF SSTI1 Exploration**: Leveraged Server-Side Template Injection vectors targeting Jinja2 Python engine template reflection flaws for remote code evaluation.
+* **Local File Inclusion & Traversal Bypass**: Injected multi-extension shell payloads (`shell.py.jpg`) past restrictive destination checks to evaluate Nginx directory traversal controls.
 
+---
 
-<hr>
+### 🚀 Featured Projects
 
-<p align="center">
-  <img
-    src="./profile/trophy.svg"
-    alt="GitHub Profile Trophies"
-  />
-</p>
+* **ReconPulse** *(Automated Reconnaissance & Security Tool)*
+  * Containerized automated web reconnaissance engine using an asynchronous FastAPI backend controlled via `asyncio.Semaphore`.
+  * Integrates automated PyMuPDF (`fitz`) parsing, ReportLab PDF export engine, and a Vite + React + Tailwind CSS interface for vulnerability audit reporting.
 
-<hr>
+* **Alumni Connect Platform** ([Live Demo](https://www.karpagamalumni.in/))
+  * Full-stack alumni networking platform built with React.js, Node.js, Express.js, and PostgreSQL with security-first API controls.
+  * Features role-based authorization, fine-grained access checks, pagination, and containerized deployment on DigitalOcean.
 
+* **Kanban Application Tracking Dashboard (`Node-Backend---CTS`)**
+  * Express.js backend connected to Google Cloud SQL PostgreSQL via a local Cloud SQL Auth Proxy interface.
 
-![GitHub Metrics](https://raw.githubusercontent.com/gokulm230/gokulm230/main/github-metrics.svg)
+* **Driver Hub**
+  * Full-stack platform tailored for driver management, dispatch coordination, and route scheduling.
 
+* **Auto Timetable Generator**
+  * Automated timetable scheduling tool designed to eliminate resource conflicts across academic departments.
 
-![GitHub LeetCode Metrics](https://raw.githubusercontent.com/gokulm230/gokulm230/main/metrics.plugin.leetcode.svg)
+* **Auto-Evaluation System**
+  * Submission tracking and automated evaluation platform for institutional evaluation workflows.
 
-<hr>
+* **PhotoDrive**
+  * Media cloud storage engine featuring isolated file upload pipelines and access verification.
 
-<hr>
+---
 
-<!--START_SECTION:WAKA-->
+### 💼 Work & Internship Experience
 
-```txt
-WakaTime coding statistics will appear here after
-you configure WakaTime and its README update workflow.
-```
+* **React.js Frontend Developer Intern — AGX Solutions** *(Feb 2025 – May 2025)*
+  * Built responsive web applications and integrated REST APIs for an agricultural B2C platform.
+  * Implemented secure data-handling practices, input validation, and component state optimization.
+* **MERN Stack Developer Intern — Xarlex** *(2024)*
+  * Engineered scalable full-stack web applications utilizing MongoDB, Express.js, React.js, Node.js, and Redux state management.
 
-<!--END_SECTION:WAKA-->
+---
 
-<!--START_SECTION:time-->
+### 🏆 Achievements & Competitions
 
-![Code Time](https://img.shields.io/badge/Code%20Time-Configure%20WakaTime-blue?style=flat)
+* **1st Prize Winner** — 36-Hour National InFynd AIMS Hackathon
+* **2nd Place (Runner-Up)** — Void.V1 National Technical Competition
+* **2nd Place (Runner-Up)** — 24-Hour Hack The Future (Earth Edition) Hackathon
+* **Participant** — Kochi Hackathon & HackSRM Hackathon
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-Tracked%20by%20GitHub-blue?style=flat)
-
-**🐱 My GitHub Data**
-
-> 📦 Public repositories and repository storage are available on my GitHub profile.
->
-> 🏆 Contributions: [View my contribution activity](https://github.com/gokulm230)
->
-> 📜 Public repositories: [Explore my repositories](https://github.com/gokulm230?tab=repositories)
->
-> 💻 Focus: Full Stack Development, Generative AI, and Backend Engineering
-
-**I'm an Early 🐤**
-
-```text
-Commit activity is based on your actual GitHub contribution history.
-```
-
-📅 **My Most Productive Day**
-
-```text
-GitHub contribution and productivity data will be displayed
-after configuring the relevant metrics workflow.
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑 Time Zone: Asia/Kolkata
-
-💬 Programming Languages:
-Configure WakaTime to display tracked language statistics.
-
-🔥 Editors:
-Configure WakaTime to display editor activity.
-
-🐱‍💻 Projects:
-Configure WakaTime to display project activity.
-```
-
-🤖 **AI Coding This Week**
-
-```text
-AI coding activity will appear here when a compatible
-tracking integration is configured.
-```
-
-<!--END_SECTION:time-->
-
-<hr>
-
-**🚀 Featured Project: Alumni Connect Platform**
-
-- Full-stack alumni networking platform built with React.js, Node.js, Express.js, and PostgreSQL.
-- Includes authentication, profile management, alumni discovery, and pagination.
-- Containerized with Docker and hosted on DigitalOcean.
-
-🌐 **Live:** https://www.karpagamalumni.in/
-
-**💼 Internship Experience**
-
-Full Stack Developer Intern — AGX Solutions  
-February 2025 – May 2025
-
-- Developed responsive React.js interfaces.
-- Integrated REST APIs and dynamic data rendering.
-- Built reusable UI components and collaborated on application improvements.
-- Worked with Google Cloud Platform hosting.
-
-**🏆 Achievements**
-
-- First place — Infynd AIM 25.
-- First place — void v1.
-- Participated in Kochi Hackathon 2025 and HackSRM Hackathon.
+---
 
 <div align="center">
-  <img height="100px" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer banner" />
+  <img height="80px" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer Banner" />
 </div>
